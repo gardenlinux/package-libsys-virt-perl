@@ -17,3 +17,4 @@ jobs:
         gardenlinux/package-libb-hooks-op-check-perl 0.22-3gl0+bp1877
         gardenlinux/package-libhtml-parser-perl 3.83-1gl0+bp1877
         gardenlinux/package-libclone-perl 0.47-1gl0+bp1877
+        gardenlinux/package-libnet-ssleay-perl 1.94-3gl0+bp1877
