@@ -15,3 +15,4 @@ jobs:
         gardenlinux/package-libdevel-callchecker-perl 0.009-2gl0+bp1877
         gardenlinux/package-libxml-parser-perl 2.47-1gl0+bp1877
         gardenlinux/package-libb-hooks-op-check-perl 0.22-3gl0+bp1877
+        gardenlinux/package-libhtml-parser-perl 3.83-1gl0+bp1877
