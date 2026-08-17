@@ -9,4 +9,8 @@ jobs:
     with:
       release: ${{ github.ref == 'refs/heads/main' }}
       build_dep: |
-        gardenlinux/package-perl 5.42.2-3gl0+bp1877 
+        gardenlinux/package-perl 5.42.2-3gl0+bp1877
+        gardenlinux/package-libclass-xsaccessor-perl 1.19-4gl0+bp1877
+        gardenlinux/package-libparams-classify-perl 0.015-2gl0+bp1877
+        gardenlinux/package-libdevel-callchecker-perl 0.009-2gl0+bp1877
+        gardenlinux/package-libxml-parser-perl 2.47-1gl0+bp1877
